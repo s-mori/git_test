@@ -1,0 +1,22 @@
+﻿body{
+  margin: 0;
+}
+header{
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  padding: 5px 10px;
+}
+#main{
+  float: right;
+  padding: 5px 10px;
+  width: 75%;
+}
+#side{
+  float: left;
+  padding: 5px 10px;
+  width: 20%;
+}
+.cf{
+  clear: both;
+}
