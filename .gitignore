@@ -1,0 +1,23 @@
+# MAC
+.DS_Store
+
+# Windows
+Thumbs.db
+
+#phpstorm
+.idea
+
+# etc
+.vagrant
+*.lock
+*.bak
+
+#cakephp
+htdocs/app/Plugin/DebugKit/
+htdocs/app/Vendor/
+
+#log
+logs/*log
+
+#vagrant
+Vagrantfile
